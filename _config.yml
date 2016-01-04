@@ -1,6 +1,6 @@
 name: Stiv
 favicon: null
-layout_spectrum: 0.7712746269535273
+layout_spectrum: 0.75551
 typography_spectrum: 0.6404057547915727
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.1733210461679846
+  brandStrength: 0.5
   lightness: 0.05988414492458105
   saturation: 0.15313342376612127
   rhythmicContrast: 0.014056759886443615
