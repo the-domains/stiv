@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stiv]]></title>
+        <description><![CDATA[Stiv]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Jan 2016 20:40:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stivchyk]]></title>
+            <description><![CDATA[<article><h1>Stivchyk</h1><p>Test site with test content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b82ab895e466b2caed44ee883baae09dccdbd555.jpg"></article>]]></description>
+            <link>undefinedstivchyk/index.html</link>
+            <guid isPermaLink="false">3b756610-bc63-443d-b5df-c85ea806e151</guid>
+            <pubDate>Sat, 30 Jan 2016 20:40:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
